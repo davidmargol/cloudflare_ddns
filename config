@@ -1,0 +1,11 @@
+#Cloudflare login email
+domain_owner_mail=""
+
+#Cloudflare API Token
+domain_api_key=""
+
+#Cloudflare API Zone ID (domain id)
+zone_api_id=""
+
+#Cloudflare DNS record name you want tu update
+dns_record_name=""
